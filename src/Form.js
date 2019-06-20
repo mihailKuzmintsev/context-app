@@ -10,7 +10,9 @@ export class Form extends Component {
     return (
       <main className={classes.main}>
         <Paper>
-          <h1>FORM!</h1>
+          <Avatar>
+            
+          </Avatar>
         </Paper>
       </main>
     );
